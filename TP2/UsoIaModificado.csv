@@ -1,0 +1,54 @@
+,¿Alguna vez usaste alguna inteligencia artificial?,En el caso de haber respondido que sí a la anterior pregunta. ¿Cuál utilizaste?, ¿Cómo fue tu experiencia al utilizar una IA?,"
+¿Qué tan frecuentemente usas IAs?",¿Por qué motivo utilizaste/utilizas/utilizarías una inteligencia artificial?,¿Pensás que las IAs hacen que el ser humano piense menos?,¿Qué opinás del uso de IAs para recrear voces de cantantes?,¿Escuchaste o viste una noticia falsa (fake new) creada por inteligencia artificial?,En el caso de haber respondido que sí en la anterior pregunta. ¿Pensaste que era real?,¿Pensás que de cara al futuro va a ser perjudicial el uso de IAs?
+0,sí,"['chatgpt', 'copilot']",buena,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,"me parece mal, es una falta de respeto para el artista",si,si,no
+1,sí,['chatgpt'],buena,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,me da igual,si,no,sí
+2,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],muy en desacuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,no,no
+3,sí,['chatgpt'],aceptable,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,no,sí
+4,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],muy en desacuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,no,no
+5,no,['microsoft bing'],aceptable,actualmente no utilizo ninguna,['ayuda con códigos de programación'],mas o menos,me da igual,no,no,sí
+6,sí,"['chatgpt', 'copilot', 'microsoft bing']",buena,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,me da igual,sí,si,no
+7,sí,['chatgpt'],buena,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,sí
+8,sí,['chatgpt'],excelente,muy de vez en cuando,"['generar/corregir/resumir textos', 'generación de imágenes']",muy en desacuerdo,me da igual,no,no,no
+9,sí,"['chatgpt', 'copilot']",buena,diariamente,['ayuda con códigos de programación'],mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,no
+10,sí,['chatgpt'],buena,muy de vez en cuando,['ayuda con códigos de programación'],totalmente de acuerdo,me da igual,sí,si,sí
+11,sí,['chatgpt'],buena,actualmente no utilizo ninguna,['generar/corregir/resumir textos'],totalmente de acuerdo,"me parece mal, es una falta de respeto para el artista",sí,no,no
+12,sí,['chatgpt'],buena,muy de vez en cuando,['generar/corregir/resumir textos'],mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",no,nan,no
+13,sí,['nan'],aceptable,muy de vez en cuando,['generación de imágenes'],mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,sí
+14,sí,['chatgpt'],aceptable,muy de vez en cuando,['resumenes de reuniones'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,no
+15,sí,['chatgpt'],buena,muy de vez en cuando,['generar/corregir/resumir textos'],mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,no
+16,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],totalmente de acuerdo,me da igual,no,nan,sí
+17,sí,['chatgpt'],excelente,diariamente,"['generar/corregir/resumir textos', 'buscar soluciones de fórmulas de excel o querys mas rápido ']",muy en desacuerdo,"me parece mal, es una falta de respeto para el artista",sí,no,no
+18,sí,['chatgpt'],excelente,diariamente,['generar/corregir/resumir textos'],muy en desacuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,no
+19,no,['nan'],nan,actualmente no utilizo ninguna,['no'],totalmente de acuerdo,"me parece mal, es una falta de respeto para el artista",sí,si,sí
+20,no,['nan'],nan,actualmente no utilizo ninguna,['no usaria por desconocimiento '],totalmente de acuerdo,"me parece mal, es una falta de respeto para el artista",no,nan,sí
+21,no,['nan'],nan,actualmente no utilizo ninguna,['ayuda con códigos de programación'],mas o menos,me da igual,no,nan,sí
+22,no,['nan'],nan,actualmente no utilizo ninguna,['generar/corregir/resumir textos'],mas o menos,"me parece mal, es una falta de respeto para el artista",no,nan,no
+23,sí,"['chatgpt', 'copilot']",excelente,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",muy en desacuerdo,me da igual,sí,no,no
+24,sí,['chatgpt'],aceptable,muy de vez en cuando,['generación de imágenes'],muy en desacuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",no,nan,no
+25,sí,['chatgpt'],mala,actualmente no utilizo ninguna,['generar/corregir/resumir textos'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,no
+26,sí,['chatgpt'],aceptable,actualmente no utilizo ninguna,['generación de imágenes'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,sí
+27,sí,['chatgpt'],aceptable,actualmente no utilizo ninguna,['no usaria'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,no,sí
+28,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,sí
+29,no,['nan'],nan,actualmente no utilizo ninguna,['no usaria'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,no,sí
+30,no,['nan'],nan,actualmente no utilizo ninguna,"['por ahora nunca la use, pero me interesa ']",mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,sí
+31,sí,['microsoft bing'],buena,actualmente no utilizo ninguna,['generar/corregir/resumir textos'],muy en desacuerdo,"me parece mal, es una falta de respeto para el artista",sí,si,sí
+32,sí,['chatgpt'],excelente,actualmente no utilizo ninguna,['generar/corregir/resumir textos'],mas o menos,me da igual,no,no,no
+33,sí,['chatgpt'],aceptable,muy de vez en cuando,['no usaria'],mas o menos,me da igual,no,nan,sí
+34,sí,['chatgpt'],excelente,diariamente,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",mas o menos,me da igual,sí,si,sí
+35,no,['nan'],nan,actualmente no utilizo ninguna,"['generación de imágenes', 'generación de audio']",muy en desacuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,no,no
+36,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],totalmente de acuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",no,nan,sí
+37,sí,['chatgpt'],buena,muy de vez en cuando,['generar/corregir/resumir textos'],mas o menos,"me parece mal, es una falta de respeto para el artista",no,nan,sí
+38,sí,"['chatgpt', 'copilot']",aceptable,muy de vez en cuando,"['ayuda con códigos de programación', 'generación de imágenes']",totalmente de acuerdo,me da igual,sí,no,sí
+39,sí,"['chatgpt', 'copilot', 'microsoft bing']",buena,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación', 'generación de imágenes', 'generación de audio']",totalmente de acuerdo,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,no,sí
+40,sí,"['chatgpt', 'gemini']",excelente,muy de vez en cuando,"['ayuda con códigos de programación', 'generación de imágenes', 'generación de audio']",mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",no,nan,no
+41,sí,['chatgpt'],excelente,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación', 'generación de imágenes', 'generación de audio']",mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",sí,si,no
+42,sí,"['chatgpt', 'copilot']",aceptable,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación', 'generación de imágenes', 'generación de audio']",mas o menos,"me parece interesante, asi se podría ver como quedaría ese artista en distintas canciones, ritmos, etc ",no,nan,no
+43,sí,"['chatgpt', 'copilot', 'microsoft bing']",buena,diariamente,"['generar/corregir/resumir textos', 'ayuda con códigos de programación', 'generación de imágenes']",mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,no
+44,sí,"['chatgpt', 'copilot']",buena,diariamente,"['ayuda con códigos de programación', 'generación de imágenes']",mas o menos,me da igual,no,nan,no
+45,sí,['chatgpt'],buena,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,no
+46,sí,['chatgpt'],excelente,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",mas o menos,me da igual,sí,si,no
+47,sí,['chatgpt'],excelente,diariamente,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",muy en desacuerdo,me da igual,sí,no,sí
+48,sí,"['chatgpt', 'copilot', 'microsoft bing']",buena,muy de vez en cuando,"['generar/corregir/resumir textos', 'ayuda con códigos de programación']",mas o menos,"me parece mal, es una falta de respeto para el artista",sí,si,sí
+49,sí,['chatgpt'],nan,muy de vez en cuando,['generar/corregir/resumir textos'],totalmente de acuerdo,me da igual,sí,no,sí
+50,sí,['chatgpt'],excelente,muy de vez en cuando,['generar/corregir/resumir textos'],mas o menos,me da igual,no,no,no
+51,sí,"['chatgpt', 'copilot']",buena,muy de vez en cuando,['ayuda con códigos de programación'],mas o menos,"me parece mal, es una falta de respeto para el artista",no,nan,no
